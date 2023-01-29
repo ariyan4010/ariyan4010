@@ -1,19 +1,19 @@
-### Hi there 👋
 
-<!--
-**ariyan4010/ariyan4010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Hi there 👋, My name is Ariyan Chowdhury 
 ![](https://m.facebook.com/photo.php?fbid=153063707471740&id=100083043330261&set=a.118380844273360&eav=AfaH2pSxMZ1dOKDZZIbp5LHs5pf2xOgM3Lv1BqnO0RlbZBKVSQpftXfVHrTnu_--wxU&paipv=0&source=44)
 
